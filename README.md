@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [Homepage Database](https://hpdb.ru)
+- 🔭 I’m currently working on [Homepage Database](https://hpdb.ru) and [Purchase List Bot](https://t.me/purchase_list_bot)
 - 🤔 Also thinking about several other projects: [Backend university](https://backend-university.ru), [ItBookmarks](https://chrome.google.com/webstore/detail/itbookmarks/pgbhhoondghmnejakmlengchfdkleklb?hl=ru), [LRM](https://lrm.borisd.ru/api/docs), Telegram bots
 - 🌱 I’m currently learning CS at [South Ural State University](https://susu.ru)
 - 📫 How to reach me: look at my homepage
