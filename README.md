@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [Homepage Database](https://hpdb.ru) and [Purchase List Bot](https://t.me/purchase_list_bot)
-- 🤔 Also thinking about several other projects: [Backend university](https://backend-university.ru), [ItBookmarks](https://chrome.google.com/webstore/detail/itbookmarks/pgbhhoondghmnejakmlengchfdkleklb?hl=ru), [LRM](https://lrm.borisd.ru/api/docs), Telegram bots
+- 🔭 I’m currently working on new projects in my freshly built k3s cluster
+- ❄️ Old projects: [Homepage Database](https://hpdb.ru), [Backend university](https://backend-university.ru), [ItBookmarks](https://chrome.google.com/webstore/detail/itbookmarks/pgbhhoondghmnejakmlengchfdkleklb?hl=ru) and [Purchase List Bot](https://t.me/purchase_list_bot)
 - 👨‍🎓 I have a Bachelor of CS from [South Ural State University](https://susu.ru)
 - 📫 How to reach me: look at my homepage
 - ⚡ Fun fact: I love retrospection and [tracking some things in my life](https://github.com/boryashkin/obsession)
